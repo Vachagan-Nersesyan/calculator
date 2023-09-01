@@ -1,0 +1,14 @@
+.calculator_items_content {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background-color: #a8dadc;
+    transition: .3s;
+}
+
+.calculator_items_content:hover{
+    background-color: #f1faee;
+    transition: .3s;
+}

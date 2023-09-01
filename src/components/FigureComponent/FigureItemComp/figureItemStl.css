@@ -1,0 +1,27 @@
+.App_figures_styles {
+    background: linear-gradient(to right, red, orange);
+    width: 6em;
+    height: 6em;
+    position: absolute;
+}
+
+.App_figures_first {
+    clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+
+    top: 9em;
+    right: 17em;
+}
+
+.App_figures_second {
+    clip-path: polygon(50% 0%, 80% 51%, 50% 100%, 20% 52%);
+
+
+    top: 20em;
+    left: 7em;
+}
+
+.App_figures_third {
+    clip-path: polygon(0% 0%, 0% 100%, 0 91%, 0 7%, 54% 7%, 55% 92%, 0 92%, 0 99%, 60% 100%, 59% 0);
+    bottom: 6em;
+    right: 20em;
+}
