@@ -3,7 +3,7 @@
     border: 5px solid #e63946;
     width: 20em;
     overflow: hidden;
-    height: 35em;
+    height: 26em;
     border-radius: 1em;
     top: 50%;
     left: 50%;
@@ -14,14 +14,14 @@
 .calculator_comp_content_number_section{
     background-color: #1d3557;
     width: 100%;
-    height: 40%;
+    height: 20%;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
 }
 
 .calculator_comp_content_number_section_itm{
-    font-size: 5em;
+    font-size: 1.5em;
     color: white;
     padding:0em .5em .2em 0em;
 }
